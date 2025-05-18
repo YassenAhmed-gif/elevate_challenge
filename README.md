@@ -18,7 +18,7 @@ A Flutter implementation of an e-commerce product showcase using modern developm
 ## Screenshots 📱
 | Products Screen |
 |----------------|
-| ![Products](https://via.placeholder.com/300x600?text=Products+Screen) |
+| ![Products](./elevateScreenShot.png) |
 
 ## Architecture 🏗️
 lib/
