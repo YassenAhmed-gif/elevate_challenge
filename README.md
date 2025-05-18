@@ -1,6 +1,6 @@
 # Elevate Challenge - Flutter E-Commerce App 🛒
 
-![Flutter](https://img.shields.io/badge/Flutter-3.13.9-blue)
+![Flutter](https://img.shields.io/badge/Flutter-3.4.0-blue)
 ![Dart](https://img.shields.io/badge/Dart-3.1.0-blue)
 ![Bloc](https://img.shields.io/badge/State%20Management-Bloc-green)
 ![Dio](https://img.shields.io/badge/Networking-Dio-orange)
@@ -34,7 +34,7 @@ lib/
 
 ### Prerequisites
 - Flutter SDK (>=3.4.0)
-- Dart (>=3.7.3)
+- Dart (>=3.1.0)
 
 ### Installation
 1. Clone the repository:
