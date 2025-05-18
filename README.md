@@ -1,16 +1,42 @@
-# elevate_challenge
+# Elevate Challenge - Flutter E-Commerce App 🛒
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.13.9-blue)
+![Dart](https://img.shields.io/badge/Dart-3.1.0-blue)
+![Bloc](https://img.shields.io/badge/State%20Management-Bloc-green)
+![Dio](https://img.shields.io/badge/Networking-Dio-orange)
 
-## Getting Started
+A Flutter implementation of an e-commerce product showcase using modern development practices.
 
-This project is a starting point for a Flutter application.
+## Features ✨
+- **Bloc State Management** for predictable state handling
+- **Dio Networking** for API communication
+- **Product Listing** with grid layout
+- **Product Details** view
+- **Error Handling** with user-friendly messages
+- **Responsive UI** for all screen sizes
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots 📱
+| Products Screen |
+|----------------|
+| ![Products](https://via.placeholder.com/300x600?text=Products+Screen) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Architecture 🏗️
+lib/
+├── screens/ # Application screens
+├── shared/ # Reusable components
+│ ├── Cubit/ # Business logic
+│ ├── model/ # Data models
+│ ├── network/ # API communication
+│ └── utils/ # Helpers & widgets
+└── main.dart # App entry point
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Getting Started 🚀
+
+### Prerequisites
+- Flutter SDK (>=3.4.0)
+- Dart (>=3.7.3)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YassenAhmed-gif/elevate_challenge.git
